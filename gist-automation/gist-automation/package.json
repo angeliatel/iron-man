@@ -1,0 +1,22 @@
+{
+  "name": "gist-automation",
+  "version": "1.0.0",
+  "description": "Automation script",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeliatel/gist-automation"
+  },
+  "author": "TE Discovery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeliatel/gist-automation"
+  },
+  "homepage": "https://github.com/angeliatel/gist-automation",
+  "dependencies": {
+    "cypress": "^3.0.2"
+  },
+  "devDependencies": {}
+}
